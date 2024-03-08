@@ -1,0 +1,2647 @@
+.bitcoin1,
+.icon,
+.link-cryptocurrencies {
+  position: relative;
+}
+.icon {
+  height: 10.5px;
+  width: 10px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.bitcoin1 {
+  font-weight: 500;
+  color: var(--gray-1);
+}
+.div-parent-childreninfo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 8px;
+  font-size: var(
+    --www-indstocks-com-stocks-zomato-ltd-share-price-1440x810-default-sf-pro-text-regular-14-size
+  );
+  color: var(--day-gray-07);
+}
+.component-52-icon {
+  height: 36px;
+  width: 36px;
+  position: relative;
+  object-fit: cover;
+}
+.bitcoin2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 28.8px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.h1 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+.btc {
+  position: relative;
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-16-size
+  );
+  line-height: 19.2px;
+  font-weight: 600;
+  color: var(--color-slategray-300);
+}
+.parent-button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 8px;
+}
+.rectangle-div {
+  height: 40px;
+  width: 80px;
+  position: relative;
+  border-radius: var(--br-5xs);
+  background-color: var(--gray-3);
+  border: 1px solid var(--color-lightslategray-100);
+  box-sizing: border-box;
+  display: none;
+}
+.rank-1 {
+  position: relative;
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-16-size
+  );
+  line-height: 126%;
+  font-weight: 500;
+  font-family: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-12
+  );
+  color: var(--gray-white);
+  text-align: left;
+  z-index: 1;
+}
+.rectangle-group {
+  cursor: pointer;
+  border: 1px solid var(--color-lightslategray-100);
+  padding: var(--padding-3xs) var(--padding-6xs) var(--padding-3xs)
+    var(--padding-3xs);
+  background-color: var(--gray-3);
+  border-radius: var(--br-5xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.rectangle-group:hover {
+  background-color: var(--color-slategray-200);
+  border: 1px solid var(--color-slategray-100);
+  box-sizing: border-box;
+}
+.div-parent-children-info,
+.spanhdef {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.spanhdef {
+  align-items: flex-end;
+  gap: 0 37px;
+}
+.div-parent-children-info {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: var(--padding-0) var(--padding-4xl);
+}
+.dashboard {
+  position: relative;
+  line-height: 38.4px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.members-child {
+  height: 8px;
+  width: 11px;
+  position: relative;
+}
+.panda-excited {
+  position: relative;
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-16-size
+  );
+  font-weight: 500;
+  font-family: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-12
+  );
+  color: var(--color-mediumseagreen-100);
+  text-align: center;
+}
+.members {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-8xs) var(--padding-3xs) var(--padding-9xs);
+  background-color: var(--color-mintcream);
+  border-radius: var(--br-9xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 8px;
+}
+.members:hover {
+  background-color: var(--color-gainsboro-300);
+}
+.h {
+  position: relative;
+  line-height: 27px;
+  font-weight: 500;
+}
+.children-info {
+  flex: 1;
+  flex-direction: row;
+  gap: 0 13px;
+}
+.b-n-b-b-t-c,
+.children-info,
+.div-item-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div-item-wrapper {
+  height: 32px;
+  flex-direction: column;
+  padding: var(--padding-10xs) var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+  font-size: var(
+    --www-indstocks-com-stocks-zomato-ltd-share-price-1440x810-default-sf-pro-text-regular-14-size
+  );
+  color: var(--gray-3);
+}
+.b-n-b-b-t-c {
+  flex-direction: row;
+  gap: 0 32px;
+}
+.div3 {
+  position: relative;
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-16-size
+  );
+  line-height: 27px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.spanhdedfa {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.group {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--gray-5);
+  box-sizing: border-box;
+}
+.bitcoin-price-chart,
+.h2 {
+  position: relative;
+  line-height: 19.5px;
+  font-weight: 600;
+}
+.h2 {
+  font-weight: 500;
+}
+.chart-item-container1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-xs) var(--padding-0) var(--padding-0);
+}
+.d,
+.h3 {
+  position: relative;
+  line-height: 19.5px;
+  font-weight: 500;
+}
+.cardano-a-d-ajpeg {
+  flex: 1;
+  border-radius: var(--br-13xl);
+  background-color: var(--color-lavender);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  color: var(--primary-darkblue);
+}
+.m {
+  position: relative;
+  line-height: 19.5px;
+  font-weight: 500;
+}
+.chart-item-container2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-2xs) var(--padding-0) var(--padding-0);
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-12-size
+  );
+}
+.m1 {
+  position: relative;
+  line-height: 19.5px;
+  font-weight: 500;
+}
+.chart-item-container3 {
+  flex: 0.6897;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-4xs) var(--padding-0) var(--padding-0);
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-12-size
+  );
+}
+.m2 {
+  position: relative;
+  line-height: 19.5px;
+  font-weight: 500;
+}
+.chart-item-container4 {
+  flex: 0.6667;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-3xs) var(--padding-0) var(--padding-0);
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-12-size
+  );
+}
+.y {
+  position: relative;
+  line-height: 19.5px;
+  font-weight: 500;
+}
+.chart-item-container5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-3xs) var(--padding-0) var(--padding-0);
+}
+.all {
+  position: relative;
+  line-height: 19.5px;
+  font-weight: 500;
+}
+.centrifuge-c-f-gjpeg,
+.div4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.centrifuge-c-f-gjpeg {
+  margin-top: -1px;
+  width: 291px;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-11xs) var(--padding-0)
+    var(--padding-0);
+  box-sizing: border-box;
+  gap: 0 9px;
+  font-size: var(--font-size-smi);
+  color: var(--color-slategray-300);
+}
+.div4 {
+  align-self: stretch;
+  justify-content: space-between;
+  padding: var(--padding-0) var(--padding-0) var(--padding-0) var(--padding-0);
+  gap: var(--gap-xl);
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-16-size
+  );
+}
+.solana-s-o-ljpeg,
+.spanhdcfb {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.spanhdcfb {
+  flex: 1;
+  flex-direction: column;
+  gap: 24px 0;
+}
+.solana-s-o-ljpeg {
+  align-self: stretch;
+  flex-direction: row;
+  padding: var(--padding-0) var(--padding-11xl) var(--padding-0)
+    var(--padding-5xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-9xl);
+}
+.div5 {
+  width: 35px;
+  position: relative;
+  display: none;
+  z-index: 0;
+}
+.spanhdfd-icon {
+  position: absolute;
+  top: 0.1px;
+  left: 0;
+  width: 829px;
+  height: 400px;
+}
+.background-icon,
+.divincrease-icon1 {
+  position: absolute;
+  top: 0.1px;
+  left: -0.2px;
+  width: 780.1px;
+  height: 355px;
+  z-index: 1;
+}
+.divincrease-icon1 {
+  z-index: 2;
+}
+.group-icon {
+  position: absolute;
+  height: calc(100% - 1px);
+  top: 0.1px;
+  bottom: 0.9px;
+  left: 10.2px;
+  max-height: 100%;
+  width: 685.1px;
+  z-index: 3;
+}
+.group-icon1,
+.group-icon2 {
+  position: absolute;
+  top: -0.4px;
+  left: -0.2px;
+  width: 780.1px;
+  height: 356px;
+}
+.group-icon2 {
+  top: 36.2px;
+  height: 318.9px;
+  z-index: 5;
+}
+.divincrease,
+.group-icon3 {
+  position: absolute;
+  top: 2.1px;
+  left: 374.5px;
+  z-index: 5;
+}
+.group-icon3 {
+  top: 0.1px;
+  left: -0.2px;
+  width: 0;
+  height: 355px;
+  z-index: 6;
+}
+.e-t-h-logo,
+.pair-of-solana-and-ethereum {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.group-icon4,
+.img-margin1 {
+  position: absolute;
+  top: 10px;
+  left: 40px;
+  width: 780px;
+  height: 355px;
+}
+.group-icon4 {
+  top: 365.1px;
+  left: 39.8px;
+  width: 780.1px;
+  height: 10px;
+  z-index: 1;
+}
+.vertical-margin-for-coin-conta {
+  width: 829px;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-12-size
+  );
+  color: var(--color-dimgray);
+}
+.group1,
+.overview {
+  position: relative;
+  z-index: 1;
+}
+.button-next-slide {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 46px 0;
+}
+.text {
+  width: 0;
+  height: 19px;
+  position: relative;
+  display: inline-block;
+  z-index: 5;
+}
+.svg1,
+.text-wrapper {
+  display: flex;
+  align-items: flex-start;
+}
+.text-wrapper {
+  width: 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-16-size
+  );
+  color: var(--color-darkslategray-100);
+}
+.svg1 {
+  width: 416px;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.coin-item-container,
+.cryptocurrency-list {
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.edabutton {
+  height: 72px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-left: -36px;
+}
+.arrow-caretupsm {
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.edabutton1 {
+  height: 131px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-left: -36px;
+}
+.link1 {
+  position: relative;
+  z-index: 1;
+}
+.img-margin2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-left: -36px;
+}
+.coin-item-container-parent {
+  height: 214px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-0) var(--padding-4xl);
+  box-sizing: border-box;
+}
+.div-cointopmargin {
+  width: 0;
+  height: 15px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.div-coin-content {
+  width: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+}
+.dec {
+  position: relative;
+  font-size: var(--font-size-2xs);
+  color: var(--color-gray-200);
+  text-align: center;
+  z-index: 1;
+}
+.div-item-wrapper1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 25px;
+  text-align: left;
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-12-size
+  );
+  color: var(--color-dimgray);
+}
+.dec1,
+.dec2,
+.dec3,
+.dec4,
+.dec5,
+.dec6 {
+  position: relative;
+  z-index: 1;
+}
+.div-chart-item-margin {
+  margin-bottom: -1px;
+  width: 747px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  text-align: center;
+}
+.div2,
+.svg {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.svg {
+  margin-right: -59px;
+  width: 916px;
+  align-items: flex-start;
+  padding: var(--padding-9xs) var(--padding-0) var(--padding-0);
+  position: relative;
+  gap: 46px 0;
+  max-width: 104%;
+  flex-shrink: 0;
+  text-align: right;
+  font-size: var(--font-size-2xs);
+}
+.div2 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--gray-white);
+  align-items: flex-end;
+  padding: var(--padding-5xl) var(--padding-0) var(--padding-14xl);
+  gap: 40px 0;
+  max-width: 100%;
+  color: var(--color-gray-200);
+}
+.dashboard1 {
+  position: relative;
+  letter-spacing: -0.01em;
+  font-weight: 600;
+}
+.dashboard-wrapper {
+  border-bottom: 3px solid var(--primary-blue);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini) var(--padding-0) var(--padding-sm);
+  color: var(--primary-darkblue);
+}
+.dashboard2 {
+  position: relative;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+}
+.dashboard-container {
+  margin-top: -11px;
+  margin-bottom: -11px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-7xl) var(--padding-0) var(--padding-6xl);
+}
+.dashboard3 {
+  position: relative;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+}
+.dashboard-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-7xl) var(--padding-0) var(--padding-6xl);
+}
+.dashboard4 {
+  position: relative;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+}
+.children-info1,
+.frame-div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-7xl) var(--padding-0) var(--padding-6xl);
+}
+.children-info1 {
+  margin-top: -11px;
+  margin-bottom: -11px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-12xs) var(--padding-0)
+    var(--padding-0);
+  gap: 0 28px;
+}
+.dashboard5 {
+  position: relative;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+}
+.dashboard-wrapper1 {
+  margin-top: -11px;
+  margin-bottom: -11px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-7xl) var(--padding-0) var(--padding-6xl);
+}
+.dashboard6 {
+  position: relative;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+}
+.dashboard-wrapper2 {
+  margin-top: -11px;
+  margin-bottom: -11px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-7xl) var(--padding-0) var(--padding-6xl);
+}
+.dashboard7 {
+  position: relative;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+}
+.dashboard-wrapper3 {
+  margin-top: -11px;
+  margin-bottom: -11px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-7xl) var(--padding-0) var(--padding-6xl);
+}
+.div-cointitle {
+  align-self: stretch;
+  height: 48px;
+  border-bottom: 1px solid var(--day-gray-04);
+  box-sizing: border-box;
+  overflow-x: auto;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-0);
+  gap: 0 32px;
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-16-size
+  );
+  color: var(--gray-2);
+}
+.performance {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 28.8px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.spanhdef1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--gray-1);
+}
+.spanhdfd,
+.todays-low {
+  position: relative;
+  line-height: 20px;
+}
+.spanhdfd {
+  font-size: var(--font-size-base-6);
+  line-height: 22px;
+  font-weight: 500;
+}
+.divpbar29subdiv {
+  width: 116px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) var(--padding-0) var(--padding-smi);
+  box-sizing: border-box;
+  gap: 10px 0;
+  min-width: 85px;
+}
+.divpbar29rangeslider,
+.divpbar29rangesliderfill {
+  align-self: stretch;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(
+    90deg,
+    #ff4949,
+    #ff4e11 15.33%,
+    #fc870a 30.44%,
+    #feae11 48.67%,
+    #c2cb21 62.73%,
+    #11eb68
+  );
+}
+.divpbar29rangesliderfill {
+  height: 5px;
+  position: relative;
+  display: none;
+}
+.divpbar29rangeslider {
+  height: 4.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divh-2 {
+  position: absolute;
+  bottom: -2.11px;
+  left: 5.65px;
+  background-color: var(--absolute-black);
+  width: 8px;
+  height: 8px;
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+}
+.divabsolute {
+  height: 8px;
+  width: 12px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.item-wrapper {
+  width: 266px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-xl);
+  box-sizing: border-box;
+}
+.chart-item-margin {
+  align-self: stretch;
+  height: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 1px 0;
+}
+.cardano-a-d {
+  position: relative;
+  line-height: 20px;
+  white-space: nowrap;
+}
+.cointop {
+  width: 266px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-xl);
+  box-sizing: border-box;
+}
+.coin-price-value,
+.s-v-g-fill {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.s-v-g-fill {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 7px 0;
+}
+.coin-price-value {
+  flex: 1;
+  align-items: flex-start;
+  padding: var(--padding-14xl) var(--padding-12xs) var(--padding-0)
+    var(--padding-0);
+  box-sizing: border-box;
+  min-width: 379px;
+  max-width: 100%;
+  font-size: var(
+    --www-indstocks-com-stocks-zomato-ltd-share-price-1440x810-default-sf-pro-text-regular-14-size
+  );
+  font-family: var(
+    --www-indstocks-com-stocks-zomato-ltd-share-price-1440x810-default-sf-pro-text-regular-14
+  );
+}
+.div-coin-top,
+.todays-high {
+  position: relative;
+  line-height: 20px;
+}
+.div-coin-top {
+  font-size: var(--font-size-base-6);
+  line-height: 22px;
+  font-weight: 500;
+}
+.chart-item-container6,
+.divpbar29subdiv1 {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.divpbar29subdiv1 {
+  width: 115px;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: var(--padding-7xs) var(--padding-0) var(--padding-smi);
+  gap: 10px 0;
+  min-width: 85px;
+  text-align: right;
+  font-size: var(--font-size-sm-6);
+}
+.chart-item-container6 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: var(--padding-0) var(--padding-11xs) var(--padding-0)
+    var(--padding-0);
+  gap: 0 7px;
+  max-width: 100%;
+}
+.div7,
+.w-low {
+  position: relative;
+  line-height: 20px;
+}
+.div7 {
+  font-size: var(--font-size-base-6);
+  line-height: 22px;
+  font-weight: 500;
+}
+.divpbar29subdiv2 {
+  width: 121px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) var(--padding-0) var(--padding-smi);
+  box-sizing: border-box;
+  gap: 10px 0;
+  min-width: 85px;
+}
+.divpbar29rangeslider1,
+.divpbar29rangesliderfill1 {
+  border-radius: var(--br-3xs);
+  background: linear-gradient(
+    90deg,
+    #ff4949,
+    #ff4e11 15.33%,
+    #fc870a 30.44%,
+    #feae11 48.67%,
+    #c2cb21 62.73%,
+    #11eb68
+  );
+}
+.divpbar29rangesliderfill1 {
+  align-self: stretch;
+  height: 5px;
+  position: relative;
+  display: none;
+}
+.divpbar29rangeslider1 {
+  height: 4.6px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-width: 376px;
+  max-width: 100%;
+}
+.div8,
+.w-high {
+  position: relative;
+  line-height: 20px;
+}
+.div8 {
+  font-size: var(--font-size-base-6);
+  line-height: 22px;
+  font-weight: 500;
+}
+.divcol,
+.divpbar29subdiv3,
+.img-margin3 {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.divpbar29subdiv3 {
+  width: 114px;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: var(--padding-7xs) var(--padding-0) var(--padding-smi);
+  gap: 10px 0;
+  min-width: 85px;
+  text-align: right;
+  font-size: var(--font-size-sm-8);
+}
+.divcol,
+.img-margin3 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-0) var(--padding-10xs) var(--padding-0)
+    var(--padding-0);
+  gap: 0 7px;
+  max-width: 100%;
+  font-size: var(
+    --www-indstocks-com-stocks-zomato-ltd-share-price-1440x810-default-sf-pro-text-regular-14-size
+  );
+}
+.divcol {
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-0) var(--padding-0) var(--padding-mini);
+  gap: 13px 0;
+  min-height: 1px;
+  font-size: var(--font-size-sm-8);
+}
+.fundamentals {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+}
+.heading-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.top-margin-icon {
+  height: 20px;
+  width: 20px;
+  position: relative;
+}
+.svg2 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.divvalign-wrapper,
+.svgmargin {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-0) var(--padding-0) var(--padding-7xs);
+}
+.divvalign-wrapper {
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-0) var(--padding-348xl) var(--padding-0)
+    var(--padding-0);
+  box-sizing: border-box;
+  gap: 0 0.04px;
+  max-width: 100%;
+}
+.bitcoin-price,
+.edasvg1 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.edasvg1 {
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-100);
+  text-align: right;
+  white-space: nowrap;
+}
+.tr {
+  align-self: stretch;
+  border-bottom: 1px solid var(--day-gray-04);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-xs) 12.078125px var(--padding-smi-5) var(--padding-0);
+  min-height: 54px;
+  gap: var(--gap-xl);
+}
+.h-low {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.th {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-smi-5) var(--padding-35xl) 13.015625px var(--padding-0);
+}
+.div-cointopmargin1 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.td1,
+.tr1 {
+  display: flex;
+  flex-direction: row;
+}
+.td1 {
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-smi-5) 11.828125px 13.015625px var(--padding-31xl);
+  z-index: 1;
+  text-align: right;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-100);
+}
+.tr1 {
+  align-self: stretch;
+  height: 54px;
+  border-bottom: 1px solid var(--day-gray-04);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: space-between;
+  gap: -53.47px;
+}
+.d-low {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.th1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-smi-5) var(--padding-55xl) 13.015625px var(--padding-0);
+}
+.div9 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.td2,
+.tr2 {
+  display: flex;
+  flex-direction: row;
+}
+.td2 {
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-smi-5) 11.828125px 13.015625px var(--padding-31xl);
+  z-index: 1;
+  text-align: right;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-100);
+}
+.tr2 {
+  align-self: stretch;
+  height: 54px;
+  border-bottom: 1px solid var(--day-gray-04);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: space-between;
+  gap: -53.47px;
+}
+.trading-volume {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.th2 {
+  width: 188px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-smi-5) var(--padding-0) 13.015625px;
+  box-sizing: border-box;
+}
+.div10 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.td3,
+.tr3 {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+}
+.td3 {
+  width: 216px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-smi-5) 12.109375px 13.015625px var(--padding-xs);
+  z-index: 1;
+  text-align: right;
+  color: var(--color-gray-100);
+}
+.tr3 {
+  align-self: stretch;
+  height: 54px;
+  border-bottom: 1px solid var(--day-gray-04);
+  align-items: center;
+  justify-content: space-between;
+  gap: -60.47px;
+}
+.market-cap-rank {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.th3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-smi-5) var(--padding-51xl) 13.015625px var(--padding-0);
+}
+.div11 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.td4 {
+  width: 204px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-smi-5) 12.578125px 13.015625px var(--padding-smi);
+  z-index: 1;
+  text-align: right;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-100);
+}
+.coin-content1,
+.td4,
+.tr4 {
+  display: flex;
+  box-sizing: border-box;
+}
+.tr4 {
+  align-self: stretch;
+  height: 54px;
+  border-bottom: 1px solid var(--day-gray-04);
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: -48.47px;
+}
+.coin-content1 {
+  flex: 0.8982;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-20xl) var(--padding-0)
+    var(--padding-0);
+  min-width: 249px;
+  max-width: 100%;
+}
+.market-cap {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.th4 {
+  width: 188px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-smi-5) var(--padding-0);
+  box-sizing: border-box;
+}
+.button-next-slide1 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.td5,
+.tr5 {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+}
+.td5 {
+  width: 216px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-smi-5) 11.890625px var(--padding-smi-5)
+    var(--padding-xs);
+  z-index: 1;
+  text-align: right;
+  color: var(--color-gray-100);
+}
+.tr5 {
+  align-self: stretch;
+  border-bottom: 1px solid var(--day-gray-04);
+  align-items: center;
+  justify-content: space-between;
+  min-height: 54px;
+  gap: -15.47px;
+  row-gap: 20px;
+}
+.market-cap-dominance {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.th5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-smi-5) var(--padding-9xl) 13.015625px var(--padding-0);
+}
+.div12 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.td6,
+.tr6 {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+}
+.td6 {
+  width: 211px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-smi-5) 12.28125px 13.015625px var(--padding-xs);
+  z-index: 1;
+  text-align: right;
+  color: var(--color-gray-100);
+}
+.tr6 {
+  align-self: stretch;
+  border-bottom: 1px solid var(--day-gray-04);
+  align-items: center;
+  justify-content: space-between;
+  min-height: 54px;
+  gap: -10.47px;
+  row-gap: 20px;
+}
+.volume-market {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.th6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-smi-5) var(--padding-26xl) 13.015625px var(--padding-0);
+}
+.div13 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.td7,
+.tr7 {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+}
+.td7 {
+  width: 206px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-smi-5) 11.828125px 13.015625px var(--padding-xs);
+  z-index: 1;
+  text-align: right;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-100);
+}
+.tr7 {
+  align-self: stretch;
+  border-bottom: 1px solid var(--day-gray-04);
+  align-items: center;
+  justify-content: space-between;
+  min-height: 54px;
+  gap: -5.47px;
+  row-gap: 20px;
+}
+.all-time-high {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.th7,
+.tr8 {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.th7 {
+  height: 61px;
+  justify-content: flex-start;
+  padding: var(--padding-smi-5) var(--padding-75xl) var(--padding-smi-5)
+    var(--padding-0);
+}
+.tr8 {
+  align-self: stretch;
+  height: 54px;
+  border-bottom: 1px solid var(--day-gray-04);
+  justify-content: space-between;
+  gap: -10.16px;
+}
+.all-time-low {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.th8,
+.tr9 {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.th8 {
+  height: 61px;
+  justify-content: flex-start;
+  padding: var(--padding-smi-5) var(--padding-79xl) var(--padding-smi-5)
+    var(--padding-0);
+}
+.tr9 {
+  align-self: stretch;
+  height: 54px;
+  border-bottom: 1px solid var(--day-gray-04);
+  justify-content: space-between;
+  gap: -6.16px;
+}
+.s-v-g-button,
+.title {
+  align-items: flex-start;
+}
+.s-v-g-button {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  min-width: 253px;
+  max-width: 100%;
+}
+.title {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 0 48px;
+  font-size: var(
+    --www-indstocks-com-stocks-zomato-ltd-share-price-1440x810-default-sf-pro-text-regular-14-size
+  );
+  color: var(--gray-3);
+}
+.div-inner,
+.div6,
+.divvalign-wrapper-parent,
+.title {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.divvalign-wrapper-parent {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px 0;
+}
+.div-inner,
+.div6 {
+  align-self: stretch;
+  box-sizing: border-box;
+}
+.div-inner {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: var(--padding-0) var(--padding-3xs) var(--padding-0) var(--padding-0);
+  font-size: var(--font-size-lg-9);
+}
+.div6 {
+  border-radius: var(--br-5xs);
+  background-color: var(--gray-white);
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-4xl) var(--padding-8xl) var(--padding-34xl)
+    var(--padding-5xl);
+  gap: 24px 0;
+  color: var(--groww-in-stocks-zomato-ltd-1440x810-default-gun-powder);
+}
+.key-events,
+.sentiment {
+  position: relative;
+  font-weight: 600;
+}
+.sentiment {
+  margin: 0;
+  font-size: inherit;
+  line-height: 28.8px;
+  font-family: inherit;
+  flex-shrink: 0;
+}
+.key-events {
+  line-height: 20px;
+}
+.coin-top-margin {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  min-height: 20px;
+}
+.divchartitem3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 6px;
+}
+.divincrease-icon2 {
+  height: 44px;
+  width: 44px;
+  position: relative;
+  border-radius: var(--br-21xl);
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.lorem-ipsum-dolor1 {
+  width: 347px;
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.heading-3,
+.spanh2d-ffd87013 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.spanh2d-ffd87013 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-0) var(--padding-2xl) var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+}
+.heading-3 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+}
+.lorem-ipsum-dolor2 {
+  width: 365px;
+  position: relative;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+}
+.item,
+.pmt-2,
+.section {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pmt-2 {
+  align-self: stretch;
+  flex-direction: column;
+  padding: var(--padding-0) var(--padding-10xs) var(--padding-0)
+    var(--padding-0);
+  color: var(--day-gray-07);
+  font-family: var(
+    --www-indstocks-com-stocks-zomato-ltd-share-price-1440x810-default-sf-pro-text-regular-14
+  );
+}
+.item,
+.section {
+  max-width: 100%;
+}
+.section {
+  flex: 1;
+  flex-direction: column;
+  gap: 8px 0;
+  min-width: 239px;
+}
+.item {
+  align-self: stretch;
+  border-radius: var(--br-xs);
+  background-color: var(
+    --www-indstocks-com-stocks-zomato-ltd-share-price-1440x810-default-solitude
+  );
+  flex-direction: row;
+  padding: var(--padding-lg) var(--padding-lg) var(--padding-19xl);
+  box-sizing: border-box;
+  gap: 0 8px;
+  min-width: 456px;
+}
+.analyst-estimates {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+}
+.coin-item-icon {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  min-height: 20px;
+}
+.centrifuge-c-f-gjpeg1,
+.chart-item-container7,
+.div-increase1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.chart-item-container7 {
+  flex-direction: row;
+  gap: 0 6px;
+  font-size: var(--font-size-lg-9);
+  color: var(--groww-in-stocks-zomato-ltd-1440x810-default-gun-powder);
+}
+.centrifuge-c-f-gjpeg1,
+.div-increase1 {
+  flex-direction: column;
+  max-width: 100%;
+}
+.centrifuge-c-f-gjpeg1 {
+  align-self: stretch;
+  gap: 33px 0;
+  font-size: var(
+    --www-indstocks-com-stocks-zomato-ltd-share-price-1440x810-default-sf-pro-text-regular-14-size
+  );
+  color: var(
+    --www-indstocks-com-stocks-zomato-ltd-share-price-1440x810-default-shark
+  );
+}
+.div-increase1 {
+  flex: 1;
+  gap: 17px 0;
+  min-width: 296px;
+}
+.item-child {
+  height: 44px;
+  width: 44px;
+  position: absolute;
+  margin: 0 !important;
+  top: 18px;
+  left: 18px;
+  border-radius: var(--br-21xl);
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.lorem-ipsum-dolor3 {
+  width: 347px;
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.heading-31,
+.spanh2d-ffd870131 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.spanh2d-ffd870131 {
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-0) var(--padding-2xl) var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+}
+.heading-31 {
+  flex-direction: row;
+  align-items: center;
+}
+.in-a-adipisinc,
+.lorem-ipsum-dolor4 {
+  margin: 0;
+}
+.lorem-ipsum-dolor-container1 {
+  width: 100%;
+}
+.lorem-ipsum-dolor-container {
+  width: 365px;
+  position: relative;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+}
+.pmt-21 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-10xs) var(--padding-0)
+    var(--padding-0);
+  color: var(--day-gray-07);
+  font-family: var(
+    --www-indstocks-com-stocks-zomato-ltd-share-price-1440x810-default-sf-pro-text-regular-14
+  );
+}
+.svg-icon {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  margin: 0 !important;
+  right: 78px;
+  bottom: 34px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.item1,
+.section1 {
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  max-width: 100%;
+}
+.section1 {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 8px 0;
+}
+.item1 {
+  align-self: stretch;
+  border-radius: var(--br-xs);
+  background-color: var(--color-mintcream);
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: var(--padding-lg) var(--padding-lg) var(--padding-19xl);
+  box-sizing: border-box;
+  min-width: 456px;
+}
+.spanhdedfa1,
+.sun-coin-image-node {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.sun-coin-image-node {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-0) var(--padding-0) var(--padding-base);
+  box-sizing: border-box;
+  min-width: 296px;
+  font-size: var(
+    --www-indstocks-com-stocks-zomato-ltd-share-price-1440x810-default-sf-pro-text-regular-14-size
+  );
+  color: var(
+    --www-indstocks-com-stocks-zomato-ltd-share-price-1440x810-default-shark
+  );
+}
+.spanhdedfa1 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  gap: 0 14px;
+}
+.children-nodes-technical {
+  position: relative;
+  font-weight: 500;
+}
+.spanh2d-457ee198 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs-5) var(--padding-0) var(--padding-10xs);
+}
+.last-parent-technical {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.spanbodylarge {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-16-size
+  );
+}
+.divabsolute-center,
+.divexr42buydiv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.divabsolute-center {
+  align-self: stretch;
+  gap: 0 2px;
+}
+.divexr42buydiv {
+  flex: 1;
+  border-radius: 59.22px;
+  background-color: var(--color-mintcream);
+  padding: 32.25px var(--padding-8xl) 32.25px var(--padding-10xl);
+}
+.divexr42buydivmargin {
+  height: 120px;
+  width: 156.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.buy {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 53.709999084472656px;
+}
+.divexr710linearbar {
+  height: 8px;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-11xs);
+  background-color: var(
+    --groww-in-stocks-zomato-ltd-1440x810-default-persian-green
+  );
+  min-width: 227px;
+  max-width: 100%;
+}
+.uniswap-u-n {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  flex-shrink: 0;
+}
+.div-coin-content1,
+.divrow {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.div-coin-content1 {
+  width: 388px;
+  align-items: center;
+  gap: 0 10px;
+  max-width: calc(100% - 54px);
+  font-size: var(--font-size-mini-3);
+}
+.divrow {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: var(--padding-5xs);
+  box-sizing: border-box;
+  gap: 0 26px;
+  max-width: 100%;
+  font-size: var(--font-size-mini);
+}
+.hold {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 53.709999084472656px;
+}
+.divexr710linearbar1 {
+  height: 8px;
+  width: 33px;
+  position: relative;
+  border-radius: var(--br-11xs);
+  background-color: var(
+    --groww-in-stocks-zomato-ltd-1440x810-default-french-gray
+  );
+}
+.div16 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.divexr710linearbar-parent,
+.divrow1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.divexr710linearbar-parent {
+  align-items: center;
+  gap: 0 10px;
+  font-size: var(--font-size-base-6);
+}
+.divrow1 {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: var(--padding-5xs);
+  gap: 0 20px;
+}
+.sell {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 53.709999084472656px;
+}
+.divexr710linearbar2 {
+  height: 8px;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-11xs);
+  background-color: var(--absolute-red);
+}
+.div17 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.divexr710linearbar-group,
+.divrow2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.divexr710linearbar-group {
+  width: 109px;
+  align-items: center;
+  gap: 0 11px;
+  font-size: var(--font-size-base-6);
+}
+.divrow2 {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: var(--padding-5xs);
+  gap: 0 27px;
+}
+.color-fill-node,
+.divwidth100 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.divwidth100 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  min-width: 359px;
+  font-size: var(--font-size-base-1);
+  color: var(--groww-in-stocks-zomato-ltd-1440x810-default-waterloo);
+}
+.color-fill-node {
+  width: 710px;
+  flex-direction: row;
+  align-items: center;
+  row-gap: 20px;
+  font-size: var(--font-size-17xl-4);
+  color: var(--absolute-green);
+}
+.div15,
+.spanhdcfb1 {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+}
+.spanhdcfb1 {
+  width: 926px;
+  display: flex;
+  gap: 24px 0;
+  max-width: 111%;
+  font-size: var(--font-size-lg-9);
+  color: var(--groww-in-stocks-zomato-ltd-1440x810-default-gun-powder);
+}
+.div15 {
+  margin-bottom: -773px;
+  align-self: stretch;
+  overflow: hidden;
+  padding: var(--padding-0) var(--padding-0) var(--padding-802xl);
+  gap: 18px 0;
+}
+.div-coin-title1,
+.div14,
+.div15 {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.div-coin-title1 {
+  height: 532px;
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-0) var(--padding-0);
+}
+.div14 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--gray-white);
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  padding: var(--padding-5xl) var(--padding-7xl) var(--padding-0)
+    var(--padding-5xl);
+}
+.about-bitcoin {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 28.8px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.spanhdedfa2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-0) var(--padding-mini)
+    var(--padding-0);
+}
+.what-is-bitcoin {
+  position: relative;
+  line-height: 21.6px;
+}
+.bitcoins-price-today {
+  width: 830px;
+  position: relative;
+  line-height: 160%;
+  font-weight: 500;
+  display: inline-block;
+}
+.hr {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-bottom: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+}
+.button-next-slide2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-0) var(--padding-8xs);
+  gap: 15px 0;
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-16-size
+  );
+  color: var(--gray-2);
+}
+.lorem-ipsum-dolor5 {
+  position: relative;
+  line-height: 21.6px;
+}
+.div-coin-price {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px 0;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-200);
+}
+.lorem-ipsum-dolor6 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.blank-line,
+.blank-line1,
+.diam-praesent-massa,
+.fermentum-hendrerit-imperdiet {
+  margin: 0;
+}
+.lorem-ipsum-dolor-container2 {
+  height: 364px;
+  width: 830px;
+  position: relative;
+  line-height: 160%;
+  font-weight: 500;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.img-margin4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-0) var(--padding-8xs);
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-16-size
+  );
+  color: var(--gray-2);
+}
+.hr1,
+.img-margin4,
+.parent-crypto-container {
+  align-self: stretch;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.hr1 {
+  flex: 1;
+  position: relative;
+  border-bottom: 1px solid var(--color-lightgray);
+}
+.parent-crypto-container {
+  height: 6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-0) var(--padding-8xs);
+}
+.already-holding-bitcoin {
+  margin: 0;
+  width: 464px;
+  height: 47px;
+  position: relative;
+  font-size: inherit;
+  line-height: 28.8px;
+  font-weight: 600;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.parent-next-slide-container {
+  width: 807px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 31px;
+  max-width: 100%;
+}
+.hr2 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-bottom: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+}
+.edasvg-fill,
+.new-node-creative {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.edasvg-fill {
+  gap: 15px 0;
+  font-size: var(--font-size-xl);
+  color: var(--gray-white);
+}
+.new-node-creative {
+  gap: 8px 0;
+}
+.blank-line2,
+.fermentum-hendrerit-imperdiet1 {
+  margin: 0;
+}
+.fermentum-hendrerit-imperdiet-container {
+  width: 830px;
+  height: 130px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -17px;
+  left: 24px;
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-16-size
+  );
+  line-height: 160%;
+  font-weight: 500;
+  color: var(--gray-2);
+  display: inline-block;
+}
+.div18 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--gray-white);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-4xl) var(--padding-8xl) var(--padding-109xl)
+    var(--padding-5xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: 10px 0;
+  max-width: 100%;
+}
+.tokenomics {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 28.8px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.div-cointitle1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-12xs);
+}
+.initial-distribution {
+  position: relative;
+  line-height: 36px;
+  font-weight: 600;
+  display: inline-block;
+  max-width: 810px;
+}
+.divtokenomics-title {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-512xl) var(--padding-0)
+    var(--padding-0);
+}
+.divtokenomics-wrapper-child,
+.spancircle {
+  height: 179px;
+  width: 179px;
+  position: relative;
+}
+.spancircle {
+  width: 12px;
+  height: 12px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-dodgerblue);
+}
+.spancirclemargin {
+  height: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-4xs) var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+}
+.crowdsale-investors-80 {
+  position: relative;
+  line-height: 20px;
+}
+.divtokenomics-label,
+.spanpercent {
+  display: flex;
+  justify-content: flex-start;
+}
+.spanpercent {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.divtokenomics-label {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+}
+.spancircle1 {
+  width: 12px;
+  height: 12px;
+  position: relative;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-orange);
+}
+.spancirclemargin1 {
+  height: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-4xs) var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+}
+.foundation-20 {
+  position: relative;
+  line-height: 20px;
+}
+.divtokenomics-label1,
+.spanpercent1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divtokenomics-label1 {
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-0) var(--padding-45xl) var(--padding-0)
+    var(--padding-0);
+}
+.divtokenomics-no-item {
+  height: 111px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 16px 0;
+}
+.divtokenomics-no-item-wrapper,
+.divtokenomics-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.divtokenomics-no-item-wrapper {
+  flex: 1;
+  padding: var(--padding-xl) var(--padding-0);
+  min-width: 144px;
+}
+.divtokenomics-wrapper {
+  align-self: stretch;
+  padding: var(--padding-0) var(--padding-367xl) var(--padding-0)
+    var(--padding-0);
+  gap: 0 24px;
+  min-height: 210px;
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-16-size
+  );
+  color: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-mine-shaft
+  );
+}
+.divtokenomics-chart-container {
+  width: 810px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.lorem-ipsum-dolor7 {
+  width: 833px;
+  position: relative;
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-16-size
+  );
+  line-height: 160%;
+  font-weight: 500;
+  color: var(--gray-2);
+  display: inline-block;
+}
+.div19,
+.divh2d-cf4c6ced {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.divh2d-cf4c6ced {
+  align-items: flex-start;
+  padding: var(--padding-0) var(--padding-12xs);
+  min-height: 227px;
+  font-size: var(--font-size-xl);
+  color: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-cod-gray1
+  );
+}
+.div19 {
+  border-radius: var(--br-5xs);
+  background-color: var(--gray-white);
+  align-items: center;
+  padding: var(--padding-4xl) var(--padding-4xl) var(--padding-41xl);
+  gap: 25px 0;
+}
+.team {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 28.8px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.button-nextslide {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.lorem-ipsum-dolor8 {
+  width: 830px;
+  position: relative;
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-16-size
+  );
+  line-height: 160%;
+  font-weight: 500;
+  color: var(--gray-2);
+  display: inline-block;
+  flex-shrink: 0;
+}
+.div20,
+.svg-arrow-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.div20 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--gray-white);
+  align-items: center;
+  padding: var(--padding-4xl) var(--padding-8xl) var(--padding-25xl)
+    var(--padding-5xl);
+  box-sizing: border-box;
+  gap: 24px 0;
+}
+.svg-arrow-right {
+  flex: 1;
+  align-items: flex-start;
+  gap: 19px 0;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--gray-1);
+  font-family: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-12
+  );
+}
+@media screen and (max-width: 1300px) {
+  .div15 {
+    padding-bottom: var(--padding-515xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .spanhdedfa1 {
+    flex-wrap: wrap;
+  }
+  .div-coin-title1 {
+    height: auto;
+  }
+  .div18 {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-64xl);
+    box-sizing: border-box;
+  }
+  .initial-distribution {
+    max-width: 100%;
+  }
+  .divtokenomics-wrapper {
+    padding-right: var(--padding-174xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 800px) {
+  .div4 {
+    flex-wrap: wrap;
+  }
+  .svg {
+    gap: 23px 0;
+  }
+  .div2 {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+  .coin-price-value {
+    min-width: 100%;
+  }
+  .chart-item-container6 {
+    flex-wrap: wrap;
+  }
+  .divpbar29rangeslider1 {
+    min-width: 100%;
+  }
+  .img-margin3 {
+    flex-wrap: wrap;
+  }
+  .divvalign-wrapper {
+    padding-right: var(--padding-164xl);
+    box-sizing: border-box;
+  }
+  .title,
+  .tr5,
+  .tr6,
+  .tr7 {
+    flex-wrap: wrap;
+  }
+  .div6 {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-15xl);
+    box-sizing: border-box;
+  }
+  .children-nodes-technical {
+    font-size: var(--font-size-10xl);
+  }
+  .divwidth100 {
+    min-width: 100%;
+  }
+  .color-fill-node {
+    flex-wrap: wrap;
+  }
+  .div15 {
+    padding-bottom: var(--padding-328xl);
+    box-sizing: border-box;
+  }
+  .parent-next-slide-container {
+    flex-wrap: wrap;
+  }
+  .div18 {
+    padding-bottom: var(--padding-35xl);
+    box-sizing: border-box;
+  }
+  .divtokenomics-title {
+    padding-right: var(--padding-246xl);
+    box-sizing: border-box;
+  }
+  .divtokenomics-wrapper-child {
+    flex: 1;
+  }
+  .divtokenomics-wrapper {
+    flex-wrap: wrap;
+  }
+  .div19,
+  .div20 {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-20xl);
+    box-sizing: border-box;
+  }
+  .div20 {
+    padding-bottom: var(--padding-10xl);
+  }
+  .svg-arrow-right {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .bitcoin2 {
+    font-size: var(--font-size-lgi);
+    line-height: 23px;
+  }
+  .spanhdef {
+    gap: 0 18px;
+  }
+  .dashboard {
+    font-size: var(--font-size-3xl);
+    line-height: 31px;
+  }
+  .b-n-b-b-t-c {
+    gap: 0 16px;
+  }
+  .b-n-b-b-t-c,
+  .div-chart-item-margin {
+    flex-wrap: wrap;
+  }
+  .div2 {
+    gap: 20px 0;
+  }
+  .div-cointitle {
+    gap: 0 16px;
+  }
+  .performance {
+    font-size: var(--font-size-lgi);
+    line-height: 23px;
+  }
+  .divvalign-wrapper {
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .tr {
+    flex-wrap: wrap;
+    padding-left: var(--padding-xs);
+    box-sizing: border-box;
+  }
+  .coin-content1 {
+    flex: 1;
+  }
+  .td5,
+  .td6,
+  .td7 {
+    margin-left: 0;
+  }
+  .title {
+    gap: 0 24px;
+  }
+  .sentiment {
+    font-size: var(--font-size-lgi);
+    line-height: 23px;
+  }
+  .item {
+    flex-wrap: wrap;
+  }
+  .centrifuge-c-f-gjpeg1 {
+    gap: 16px 0;
+  }
+  .children-nodes-technical {
+    font-size: var(--font-size-3xl);
+  }
+  .div-coin-content1,
+  .divrow1 {
+    flex-wrap: wrap;
+  }
+  .about-bitcoin,
+  .already-holding-bitcoin {
+    font-size: var(--font-size-lgi);
+    line-height: 23px;
+  }
+  .parent-next-slide-container {
+    gap: 0 15px;
+  }
+  .tokenomics {
+    font-size: var(--font-size-lgi);
+    line-height: 23px;
+  }
+  .initial-distribution {
+    font-size: var(
+      --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-16-size
+    );
+    line-height: 29px;
+  }
+  .divtokenomics-title,
+  .divtokenomics-wrapper {
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .team {
+    font-size: var(--font-size-lgi);
+    line-height: 23px;
+  }
+  .div20 {
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
